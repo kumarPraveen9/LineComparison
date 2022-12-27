@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineComparison
 {
-    internal class lineEqual
+    public class lineEqual
     {
         public static void equal()
         {
