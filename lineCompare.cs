@@ -38,7 +38,7 @@ namespace LineComparison
             }
             else
             {
-                Console.WriteLine("\nBoth lines are not equal");
+                Console.WriteLine("\nBoth lines are  equal");
             }
         }
     }
