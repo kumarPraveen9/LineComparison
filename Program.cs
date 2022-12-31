@@ -6,7 +6,7 @@ class Program
         {
             Console.WriteLine("Welcme to Line Comparison Program !!");
 
-            lineCompare.line_compare();
+            
         }
     }
 }
